@@ -30,6 +30,5 @@ C:\GitHub\WebApi2-Simple\WebApi2-Simple\bin\System.Net.Http.Formatting.xml
 C:\GitHub\WebApi2-Simple\WebApi2-Simple\bin\System.Web.Http.xml
 C:\GitHub\WebApi2-Simple\WebApi2-Simple\bin\System.Web.Http.Owin.xml
 C:\GitHub\WebApi2-Simple\WebApi2-Simple\bin\System.Web.Http.WebHost.xml
-C:\GitHub\WebApi2-Simple\WebApi2-Simple\obj\Debug\WebApi2-Simple.csprojResolveAssemblyReference.cache
 C:\GitHub\WebApi2-Simple\WebApi2-Simple\obj\Debug\WebApi2-Simple.dll
 C:\GitHub\WebApi2-Simple\WebApi2-Simple\obj\Debug\WebApi2-Simple.pdb

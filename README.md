@@ -19,3 +19,7 @@ WebApi2 Simple [OWIN]
 
 - Press F5 to run the application
 - Navigate to /location in the browser
+
+##Posible Errors
+	- No assembly found containing an OwinStartupAttribute.
+		- [x] [assembly: OwinStartup(typeof(WebApi2_Simple.Startup))] (Add to the Startup class attribute)
